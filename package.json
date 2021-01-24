@@ -1,0 +1,22 @@
+{
+  "name": "javascript_traversy-",
+  "version": "1.0.0",
+  "description": "Course from : https://www.youtube.com/watch?v=hdI2bqOjy3c",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityagawade27/javascript_traversy-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityagawade27/javascript_traversy-/issues"
+  },
+  "homepage": "https://github.com/adityagawade27/javascript_traversy-#readme",
+  "dependencies": {
+    "jshint": "^2.12.0"
+  }
+}
